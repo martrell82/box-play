@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Mecto",
+        "image": "img/mecto.jpg",
+        "planet": "Strodin M",
+        "population": 199223388
+    },
+    {
+        "name": "boldir",
+        "image": "img/boldir.jpg",
+        "planet": "Boldar",
+        "population": 1030780
+    },
+    {
+        "name": "Fikins",
+        "image": "img/fikins.jpg",
+        "planet": "Nazar",
+        "population": 10883452993
+    },
+    {
+        "name": "Palians",
+        "image": "img/palians.jpg",
+        "planet": "Nector",
+        "population": 4270114820
+    },
+    {
+        "name": "Xilorians",
+        "image": "img/xilorians.jpg",
+        "planet": "Bomet",
+        "population": 199223388
+    }
+]
